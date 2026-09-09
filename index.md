@@ -47,4 +47,3 @@ This is my digital logbook documenting my **5-year journey** (2026-2031) — eve
 ---
 
 *"Start where you are. Use what you have. Do what you can."* 🚀
-**Please note this site is work in progress and may break occasionally. i have a lot to learn but i will make sure to fix it ASAP**
