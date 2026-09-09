@@ -4,12 +4,6 @@ title: "About"
 permalink: /pages/about.html
 ---
 
----
-layout: default
-title: "About Me"
-permalink: /pages/about.html
----
-
 # About Me
 
 Hi! I'm **Wisdom Johnson**, a Mechatronics Engineering student at **FUNAAB**.

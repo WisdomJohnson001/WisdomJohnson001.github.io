@@ -4,11 +4,6 @@ title: "Projects"
 permalink: /pages/projects.html
 ---
 
----
-layout: default
-title: "Projects"
-permalink: /pages/projects.html
----
 
 # My Projects
 

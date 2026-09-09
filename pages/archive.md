@@ -4,11 +4,6 @@ title: "Archive"
 permalink: /pages/archive.html
 ---
 
----
-layout: default
-title: "Archive"
-permalink: /pages/archive.html
----
 
 # 📚 All Posts
 
