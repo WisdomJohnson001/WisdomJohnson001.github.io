@@ -1,0 +1,7 @@
+---
+layout: default
+title: "My Admission has been Granted"
+date: 2026-09-12
+---
+
+# Admission Status
