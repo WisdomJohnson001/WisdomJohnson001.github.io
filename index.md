@@ -46,4 +46,4 @@ This is my digital logbook documenting my **5-year journey** (2026-2031) — eve
 
 ---
 
-*"Start where you are. Use what you have. Do what you can."* 🚀
+*"There is no fate, no destiny that can hinder the firm resolve of a determined soul."* 🚀
