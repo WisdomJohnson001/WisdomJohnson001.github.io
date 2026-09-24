@@ -30,7 +30,9 @@ Mechatronics is where **mechanical systems**, **electronics**, and **software** 
 I chose it because:
 - I've always been fascinated by how things work
 - Robots, automation, and control systems excite me
-- It's the future — and I want to build it
+- I want to be an engineer
+- I offers me the best of mechanical engineering , electronics engineering, computer programing with lots of hands-on activities and less theory
+- Actually i like dismantling things and seeing if i can couple them back (most of the time i don't) either that a screw is missing or i forget how to reassemble it 
 
 ---
 
@@ -41,7 +43,9 @@ I chose it because:
 - **Mechanics** — Statics, dynamics, thermodynamics
 - **Control Systems** — How machines think and react
 - **Robotics** — Bringing it all together
-
+- **Systems Thinking** - Thinking as a whole
+- **First Principles Thinking** - Thinking on the original use of a component
+- **Failure** - Yes! I would be learning how to fail forward
 ---
 
 ## 📝 Why This Blog?
@@ -49,9 +53,10 @@ I chose it because:
 I created this site to:
 
 1. **Document** — Every lab, project, failure, and breakthrough
-2. **Share** — Resources with fellow FUNAAB students
+2. **Share** — Resources with fellow FUNAAB students and other engineering student around the world
 3. **Build** — A portfolio that grows with me
 4. **Stay accountable** — Public commitment to consistency
+5. **Reminder** - To serve as a reminder for me about how i started me 
 
 ---
 
@@ -62,6 +67,7 @@ I created this site to:
 - Learn basic circuit analysis. i know this
 - Build my first simple circuit. I have done this at home
 - Get comfortable with MATLAB. (I need to work on this)
+- Get familiar with the university , lecturers, collegues and neighbours.
 
 ### Mid-term (300-Level)
 - Build a robot from scratch
@@ -71,7 +77,7 @@ I created this site to:
 ### Long-term (500-Level & Beyond)
 - Graduate with a strong portfolio
 - Work on real-world automation projects
-- Maybe start my own engineering firm >0<>
+- Maybe start my own engineering firm >0<
 
 ---
 
