@@ -20,7 +20,7 @@ body {
 
 /* ===== HEADER ===== */
 header {
-    background: linear-gradient(135deg, #1a3c5e, #2c5f8a);
+    background: linear-gradient(135deg, #aac9e6, #2c5f8a);
     color: white;
     padding: 30px 20px;
     margin-bottom: 30px;
@@ -37,7 +37,7 @@ header {
 }
 
 .subtitle {
-    color: #aac9e6;
+    color: #02122f;
     font-size: 0.9em;
 }
 
@@ -235,4 +235,22 @@ footer {
     table {
         font-size: 0.85em;
     }
+}/* Page & Post metadata (dates) */
+.page-header {
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #eee;
+}
+
+.page-meta,
+.post-meta {
+    color: #000;
+    font-size: 0.9em;
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
+.page-meta strong,
+.post-meta strong {
+    color: #1a3c5e;
 }

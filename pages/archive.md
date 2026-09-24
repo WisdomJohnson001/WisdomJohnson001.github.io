@@ -2,6 +2,7 @@
 layout: default
 title: "Archive"
 permalink: /pages/archive.html
+last_updated: 2026-09-12
 ---
 
 # 📚 All Posts

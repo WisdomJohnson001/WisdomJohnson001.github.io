@@ -2,6 +2,7 @@
 layout: default
 title: "About Me"
 permalink: /pages/about.html
+last_updated: 2026-09-24
 ---
 
 # About Me
