@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: default
 title: "Resources"
 permalink: /pages/resources.html
 last_updated: 2026-09-12
---- -->
+---
 
 
 # 📚 Resources for FUNAAB Mechatronics Students
