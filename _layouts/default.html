@@ -8,13 +8,29 @@
 </head>
 <body>
     {% include header.html %}
-    
+
     <main class="container">
-        {{ content }}
+        <article class="page-content">
+            {% if page.title %}
+                <header class="page-header">
+                    <h1>{{ page.title }}</h1>
+                    <p class="page-meta">
+                        {% if page.date %}
+                            📅 Published: {{ page.date | date: "%B %d, %Y" }}
+                        {% endif %}
+                        {% if page.last_updated %}
+                            <br>🔄 Last updated: {{ page.last_updated | date: "%B %d, %Y" }}
+                        {% endif %}
+                    </p>
+                </header>
+            {% endif %}
+
+            {{ content }}
+        </article>
     </main>
-    
+
     {% include footer.html %}
-    
+
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
