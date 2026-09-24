@@ -359,6 +359,20 @@ footer {
     margin-top: 30px;
 }
 
+.error-tip {
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: #fff3cd;
+    border-radius: 8px;
+    color: #856404;
+    font-size: 0.95em;
+}
+
+.error-tip a {
+    color: #1a3c5e;
+    font-weight: 600;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
     .error-code {
