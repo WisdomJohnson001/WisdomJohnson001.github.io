@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Day 0: Building My Digital Logbook"
 date: 2026-09-09
 --- 
@@ -22,3 +22,66 @@ Thanks be to whoever created it.
 ```bash
 gem install jekyll bundler
 jekyll new my-site
+```
+
+### 2. Fixed a LOT of Errors
+
+This wasn't smooth. I hit:
+- YAML syntax errors in _config.yml
+- Missing `webrick` gem
+- Folder naming issues (`w_includes` instead of `_includes`)
+- Broken links on my archive page (Some parts are still broken)
+
+But I fixed every single one.
+
+### 3. Structured the Site
+```text
+_posts/
+    Days-To-Admission/
+    100-level/
+    200-level/
+    300-level/
+    400-level/
+    500-level/
+```
+This way each year of my degree gets its own folder. By graduation, I'll have  5 years of documented growth.
+
+### 4. Wrote in Markdown
+
+This post? Written in Markdown. It looks like plain text but becomes HTML.
+
+**Bold**, *italic*, [links](#), and code blocks — all from simple symbols.
+
+### 5. Deployed to GitHub Pages
+
+```bash
+git add .
+git commit -m "First post"
+git push origin main
+```
+
+My site went live at **https://WisdomJohnson001.github.io** in minutes.
+
+## What I Learned
+
+| Lesson | Takeaway |
+|--------|----------|
+| YAML is picky | One wrong space breaks everything |
+| Git is forgiving | You can always revert mistakes |
+| Markdown is fast | Way faster than writing HTML by hand |
+| GitHub Pages is free | Free hosting, free SSL, free custom domain support |
+| Documentation matters | Future me will thank present me |
+
+## What's Next
+
+- My first week at FUNAAB
+- Course registration
+- Meeting my classmates
+- Setting up my study routine
+
+---
+
+*This is Day 0. The real journey starts now.* 🚀
+
+**— Wisdom Johnson**
+*Mechatronics Engineering, FUNAAB*
