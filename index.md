@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+last_updated: 2026-09-24
 ---
 
 # ⚙️ Welcome to My Mechatronics Journey
