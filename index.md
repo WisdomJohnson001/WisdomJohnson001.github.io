@@ -28,6 +28,7 @@ This is my digital logbook documenting my **5-year journey** (2026-2031) — eve
 {% endfor %}
 
 [View all posts →](/pages/archive.html)
+> 🎉 **UPDATE:** I've been admitted to FUNAAB for Mechatronics Engineering! Read the full story → [I Got Admitted to FUNAAB!](/2026/09/12/admitted-to-funaab.html)
 
 ---
 
